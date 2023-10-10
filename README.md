@@ -40,7 +40,7 @@ Dedicated DFIR specialist with a strong commitment to combating the ever-growing
 **Mindtree LTD**, Hyderabad, Telengana
 
 
-- ### Security Engineer
+### Security Engineer
 **BluSapphire Cyber Systems**, Hyderabad, Telengana
 
 

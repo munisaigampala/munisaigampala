@@ -1,13 +1,15 @@
-# Your Name
+# Muni Sai Gampala
 
 📧 Email: munisaigampala@gmail.com | 🌐 Linkedin: www.linkedin.com/in/munisaigampala/ | 📞 Phone: Please contact via Email
 
 ## Summary
 
-DFIR specialist with a strong commitment to combating the ever-growing landscape of cybercrime. Skilled in Digital Forensics, Cyber Investigation, Incident Response, and Threat Hunting, with the added advantage of leveraging Scripting for forensic investigation. Actively engaged in researching and gathering information on diverse malware samples and APT groups.
+Dedicated DFIR specialist with a strong commitment to combating the ever-growing landscape of cybercrime. Proficient in Digital Forensics, Cyber Investigation, Incident Response & Management, Red/Purple Teaming and Threat Hunting, with an additional proficiency in using Scripting for forensic analysis. Actively involved in researching and collecting data on various malware samples and APT groups.
 
 
-With experience in both Red Team and Blue Team techniques, I possess a unique understanding of adversary hunting and discovery within enterprise environments. My career is driven by a passion for staying at the forefront of cybersecurity advancements to safeguard digital assets and protect against cyber threats.
+ With experience in both Red Team and Blue Team techniques, I possess a unique understanding of adversary hunting and discovery within enterprise environments. My career is driven by a passion for staying at the forefront of cybersecurity advancements to safeguard digital assets and protect against cyber threats.
+
+
 
 ## who am I?
 ### Incident Responder
@@ -32,34 +34,20 @@ With experience in both Red Team and Blue Team techniques, I possess a unique un
 
 ### DFIR Lead Analyst
 **Unilever**, Bangalore , Karnataka, India
- Joined on November - 2021
+
 
 ### Senior Engineer, EDR Grader Team
 **Mindtree LTD**, Hyderabad, Telengana
-Dates worked: November 2020 - November 2021
 
-- Researching and investigating major threats, malware, and security incidents for organizations.
-- Actively hunting on large sets of data to surface advanced targeted attacks on customer telemetry.
-- Utilizing IOCs fed by Threat Intelligence to hunt for active threats and performing detailed investigations on incidents relating to APTs, human adversaries, and zero days.
 
 - ### Security Engineer
 **BluSapphire Cyber Systems**, Hyderabad, Telengana
-Dates worked: June 2020 - October 2021
-
-
-- Conducted in-depth analysis of diverse malicious binaries and documents, delivering actionable intelligence to enhance the effectiveness of the EDR (Endpoint Detection and Response) product.
-- Collaborated with multiple teams during incident investigations, iteratively refining findings to present comprehensive reports to the client.
 
 
 ### Security Analyst
 **eSF Labs**, Vijayawada, Andhra Pradesh
-Dates worked: June 2017 - January 2020
 
-- Lead R&D team, innovating and developing scripts/tools for data collection, parsing, and analysis.
-- Performed Forensic and Malware Analysis of various forms of digital data.
-- Performed Vulnerability Assessment and Penetration Testing of Web, Mobile and Network Assets.
-**Security Intern**
-- Built a centralized server-client based network packet analysis kit that will assist network forensic team while analysing network related information.
+
 
 
 ## Education

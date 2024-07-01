@@ -15,7 +15,7 @@ Dedicated DFIR specialist with a strong commitment to combating the ever-growing
 ### Incident Responder
 - Identifying, managing, and responding to cybersecurity incidents within an organization
 ### Malware Analysis
-- Static Analysis, Dynamic Analysis, Encoding and Decoding scripts, Sandbox Aaalysis
+- Static Analysis, Dynamic Analysis, Encoding and Decoding scripts, Sandbox Analysis
 ### Forensic Analyst 
 - Disk Forensics, Memory Forensics, Network Forensics, MObile Device Forensics, Document Analysis and Artifact based Forensics
 - Digital Evidence Collection, Forensic Imaging, Data Carving and Recovery, Metadata Analysis
@@ -32,7 +32,7 @@ Dedicated DFIR specialist with a strong commitment to combating the ever-growing
 
 ## Work Experience
 
-### DFIR Lead Analyst
+### DFIR Lead - Assistant Manager
 **Unilever**, Bangalore , Karnataka, India
 
 

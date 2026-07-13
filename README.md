@@ -8,7 +8,7 @@
 
 ## 🌐 Live Resume
 
-👉 [View Resume](http://munisaigampala.github.io/munisai-resume/)
+👉 [View Resume](http://munisaigampala.github.io/munisaigampala/)
 
 ---
 

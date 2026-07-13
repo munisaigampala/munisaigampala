@@ -1,6 +1,6 @@
 # Muni Sai Gampala — Resume
 
-🔒 DFIR Lead | Cyber Security Professional
+🔒 DFIR Guy | Cyber Security Professional
 
 > ⚠️ Personal information and company names have been masked for privacy. Full details available on request.
 

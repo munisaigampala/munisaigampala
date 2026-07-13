@@ -98,7 +98,7 @@ Results-driven Cybersecurity professional with **8+ years** of experience across
 ## 📬 Get In Touch
 
 - 🔗 [LinkedIn](https://linkedin.com/in/munisaigampala)
-- 💻 [GitHub](https://github.com/iammunisai)
-- ✉️ [Send a Message](https://github.com/iammunisai/sample-resume/issues/new?title=Contact%20Request&body=Hi%20Muni%20Sai%2C%0AI%20would%20like%20to%20connect%20regarding%3A%0A)
+- 💻 [GitHub](https://github.com/munisaigampala)
+- ✉️ [Send a Message](https://github.com/munisaigampala/munisaigampala/issues/new?title=Contact%20Request&body=Hi%20Muni%20Sai%2C%0AI%20would%20like%20to%20connect%20regarding%3A%0A)
 
 > 📧 Email & 📱 Phone available on request.

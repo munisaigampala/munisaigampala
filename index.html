@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muni Sai Gampala - Resume</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f0f2f5; color: #333; }
+        .container { max-width: 850px; margin: 40px auto; background: #fff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); overflow: hidden; }
+        .header { background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460); color: #fff; padding: 40px; text-align: center; }
+        .header h1 { font-size: 2.4em; margin-bottom: 8px; letter-spacing: 1px; }
+        .header p { font-size: 1.2em; opacity: 0.9; font-weight: 300; }
+        .header .contact { margin-top: 16px; font-size: 0.9em; opacity: 0.75; }
+        .header .contact a { color: #7ec8e3; text-decoration: none; }
+        section { padding: 30px 40px; border-bottom: 1px solid #eee; }
+        section:last-child { border-bottom: none; }
+        h2 { color: #1a1a2e; font-size: 1.4em; margin-bottom: 16px; border-left: 4px solid #e94560; padding-left: 12px; }
+        .job, .edu { margin-bottom: 24px; }
+        .job:last-child, .edu:last-child { margin-bottom: 0; }
+        .job h3, .edu h3 { color: #0f3460; font-size: 1.1em; }
+        .job .meta, .edu .meta { font-size: 0.9em; color: #666; margin: 4px 0 8px; }
+        .job .meta .duration { color: #e94560; font-weight: 600; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 6px; line-height: 1.6; }
+        .skills-section { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+        .skill-category h4 { color: #0f3460; margin-bottom: 8px; font-size: 0.95em; }
+        .skills-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+        .skill-tag { background: #e8f0fe; color: #0f3460; padding: 5px 14px; border-radius: 20px; font-size: 0.85em; }
+        .skill-tag.highlight { background: #e94560; color: #fff; }
+        .download-btn { display: inline-block; margin-top: 16px; background: #e94560; color: #fff; padding: 10px 24px; border-radius: 25px; text-decoration: none; font-size: 0.95em; cursor: pointer; border: none; transition: background 0.3s; }
+        .download-btn:hover { background: #c73650; }
+        @media print { .download-btn, footer { display: none !important; } .container { box-shadow: none; margin: 0; } body { background: #fff; } }
+        footer { text-align: center; padding: 20px; color: #999; font-size: 0.85em; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Muni Sai Gampala</h1>
+            <p>DFIR Lead | Cyber Security Professional</p>
+            <div class="contact">
+                🔗 <a href="https://linkedin.com/in/munisaigampala">LinkedIn</a> &nbsp;|&nbsp;
+                💻 <a href="https://github.com/iammunisai">GitHub</a>
+            </div>
+            <div style="margin-top: 12px; font-size: 0.8em; opacity: 0.6; font-style: italic;">
+                📧 Email & 📱 Phone available on request
+            </div>
+        </div>
+
+        <section>
+            <h2>Summary</h2>
+            <p>Results-driven Cybersecurity professional with 8+ years of experience across Security Operations, Digital Forensics & Incident Response (DFIR), and Cloud Security. Proven ability to lead SOC teams, investigate complex cloud and endpoint incidents, and build AI-powered automation that accelerates investigation workflows. Skilled in threat hunting, malware analysis, reverse engineering, and developing detection strategies across Azure, AWS, and GCP environments. Currently working as a Security Operations Engineer at a leading global technology company.</p>
+        </section>
+
+        <section>
+            <h2>Core Competencies</h2>
+            <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
+                <div style="background: #f8f9fa; border-radius: 10px; padding: 18px; border-left: 4px solid #e94560;">
+                    <h4 style="color: #0f3460; margin-bottom: 8px;">🛡️ Incident Response</h4>
+                    <p style="font-size: 0.85em; color: #555; line-height: 1.5;">Incident triaging, containment, eradication, recovery & post-incident analysis</p>
+                </div>
+                <div style="background: #f8f9fa; border-radius: 10px; padding: 18px; border-left: 4px solid #e94560;">
+                    <h4 style="color: #0f3460; margin-bottom: 8px;">🔬 Malware Analysis</h4>
+                    <p style="font-size: 0.85em; color: #555; line-height: 1.5;">Static & dynamic analysis, reverse engineering, sandbox analysis, encoding/decoding</p>
+                </div>
+                <div style="background: #f8f9fa; border-radius: 10px; padding: 18px; border-left: 4px solid #e94560;">
+                    <h4 style="color: #0f3460; margin-bottom: 8px;">🔍 Digital Forensics</h4>
+                    <p style="font-size: 0.85em; color: #555; line-height: 1.5;">Disk, memory, network & mobile forensics, evidence collection, data carving & metadata analysis</p>
+                </div>
+                <div style="background: #f8f9fa; border-radius: 10px; padding: 18px; border-left: 4px solid #e94560;">
+                    <h4 style="color: #0f3460; margin-bottom: 8px;">🎯 Threat Intel & Hunting</h4>
+                    <p style="font-size: 0.85em; color: #555; line-height: 1.5;">IOC hunting, APT research, trend analysis, threat intelligence gathering & automation</p>
+                </div>
+                <div style="background: #f8f9fa; border-radius: 10px; padding: 18px; border-left: 4px solid #e94560;">
+                    <h4 style="color: #0f3460; margin-bottom: 8px;">🔴 Red & Purple Teaming</h4>
+                    <p style="font-size: 0.85em; color: #555; line-height: 1.5;">Penetration testing, vulnerability assessment, exploitation, social engineering & adversary simulation</p>
+                </div>
+                <div style="background: #f8f9fa; border-radius: 10px; padding: 18px; border-left: 4px solid #e94560;">
+                    <h4 style="color: #0f3460; margin-bottom: 8px;">🤖 AI & Automation</h4>
+                    <p style="font-size: 0.85em; color: #555; line-height: 1.5;">AI-powered investigation tools, Python automation, log analysis scripts & workflow optimization</p>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Experience</h2>
+            <div class="job">
+                <h3>Security Operations Engineer</h3>
+                <div class="meta">A Leading Global Technology Company &bull; Aug 2025 – Present &bull; <span class="duration">11M+</span></div>
+                <ul>
+                    <li>Investigated and triaged cloud security incidents involving Azure Key Vault operations, ARM resource anomalies, tenant-level suspicious activities, and credential exposure scenarios</li>
+                    <li>Expanded scope to include endpoint (MDE) and DevOps (ADO) security investigations as part of a unified SOC model; contributed to several high-priority critical incident investigations</li>
+                    <li>Rapidly adapted across multiple workstreams within a short tenure; authored case investigation notes that became standard guidance and go-to reference material for fellow analysts</li>
+                    <li>Designed and developed reusable AI-powered investigation and reporting automation tools, reducing analyst investigation and reporting time by 60–70%</li>
+                    <li>Built versatile AI-driven scripts for log analysis, case triage, and evidence correlation, enabling faster and more consistent investigations across the team</li>
+                    <li>Championed AI adoption within the SOC by sharing tooling and best practices, driving operational efficiency improvements across the team</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>DFIR Lead – Assistant Manager, Incident Response Team</h3>
+                <div class="meta">A Leading Global FMCG Corporation, Bengaluru &bull; Nov 2021 – Jul 2025 &bull; <span class="duration">3Y 9M</span></div>
+                <ul>
+                    <li>Manage and oversee SOC and IR Team, specializing in detecting and resolving security incidents across on-premises and cloud environments</li>
+                    <li>Managed and resolved numerous critical incidents, mitigating risk and minimizing cyber impact on the organization</li>
+                    <li>Responded to and resolved various cloud security incidents ensuring a secure and reliable cloud environment</li>
+                    <li>Identified well-crafted malware attacks and implemented custom detection methods to prevent potential threats</li>
+                    <li>Discovered sophisticated phishing attempts including AiTM, BEC, and Quishing; developed tailored detection measures</li>
+                    <li>Regularly monitored and updated detection playbooks, runbooks, and rules to align with current requirements</li>
+                    <li>Performed post-incident analysis to identify root causes and recommended preventive measures</li>
+                    <li>Tools: Qradar, Microsoft Sentinel, Microsoft XDR, CrowdStrike, Vectra NDR, Cofense, Abnormal Security, EnCase, Tanium</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Senior Engineer, EDR Grader Team (Security Researcher)</h3>
+                <div class="meta">A Leading IT Services Company, Hyderabad &bull; Nov 2020 – Nov 2021 &bull; <span class="duration">1Y 1M</span></div>
+                <ul>
+                    <li>Led a 10-member team investigating advanced targeted attacks by examining customer telemetry</li>
+                    <li>Utilized Threat Intelligence-derived IOCs and conducted research on APTs, adversaries, and zero-day incidents using KQL</li>
+                    <li>Handled security alerts across Windows, Linux, MacOS, and AndroidOS, enhancing EDR detection capabilities</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Security Engineer, SOC Team</h3>
+                <div class="meta">A Cybersecurity Startup, Hyderabad &bull; Jun 2020 – Nov 2020 &bull; <span class="duration">6M</span></div>
+                <ul>
+                    <li>Performed in-depth analysis of malicious binaries and documents, delivering actionable intelligence for in-house EDR</li>
+                    <li>Collaborated with multiple teams during incident investigations, presenting comprehensive reports to clients</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Security Intern → Security Analyst</h3>
+                <div class="meta">A Cyber Security & Digital Forensics Research Centre, Vijayawada &bull; May 2017 – Jan 2020 &bull; <span class="duration">2Y 9M</span></div>
+                <ul>
+                    <li>Solo member of the R&D team, creating scripts and tools for data collection, parsing, and forensic analysis</li>
+                    <li>Successfully led and managed a government-sponsored cybersecurity training initiative for 2 years — coordinated curriculum, mentored students, evaluated projects, and delivered demonstrations to government stakeholders</li>
+                    <li>Planned proposals, designed tooling concepts, and built working prototypes presented to government bodies</li>
+                    <li>Demonstrated forensic and malware analysis using FTK, EnCase, Wireshark, IDA Pro, Olly Debugger, SIFT, Remnux</li>
+                    <li>Conducted VAPT of Web, Mobile and Network assets using Burpsuite, Nessus, Metasploit, Kali, and more</li>
+                    <li>Developed a centralized server-client network packet analysis toolkit using Python (Scapy, Flask, Django)</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <div class="edu">
+                <h3>M.Tech in Cyber Security and Digital Forensics</h3>
+                <div class="meta">A Deemed University, Vijayawada &bull; 2016 – 2018</div>
+            </div>
+            <div class="edu">
+                <h3>B.Tech in Electronics and Communication Engineering (ECE)</h3>
+                <div class="meta">A State Technological University, Ananthapur &bull; 2011 – 2015</div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <div class="skills-section">
+                <div class="skill-category">
+                    <h4>🔒 Security</h4>
+                    <div class="skills-grid">
+                        <span class="skill-tag highlight">Incident Response</span>
+                        <span class="skill-tag highlight">Digital Forensics</span>
+                        <span class="skill-tag">Malware Analysis</span>
+                        <span class="skill-tag">Reverse Engineering</span>
+                        <span class="skill-tag">Threat Hunting</span>
+                        <span class="skill-tag">Threat Intelligence</span>
+                        <span class="skill-tag">Cloud Security</span>
+                        <span class="skill-tag">Offensive Security</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h4>💻 Languages & Cloud</h4>
+                    <div class="skills-grid">
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">PowerShell</span>
+                        <span class="skill-tag">Bash</span>
+                        <span class="skill-tag">KQL</span>
+                        <span class="skill-tag">RegEx</span>
+                        <span class="skill-tag">PHP</span>
+                        <span class="skill-tag">Azure</span>
+                        <span class="skill-tag">GCP</span>
+                        <span class="skill-tag">AWS</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Get In Touch</h2>
+            <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+                <a href="https://linkedin.com/in/munisaigampala" target="_blank" style="display: flex; align-items: center; gap: 8px; background: #0077b5; color: #fff; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-size: 0.95em; transition: opacity 0.3s;">🔗 Connect on LinkedIn</a>
+                <a href="https://github.com/iammunisai" target="_blank" style="display: flex; align-items: center; gap: 8px; background: #24292e; color: #fff; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-size: 0.95em; transition: opacity 0.3s;">💻 Follow on GitHub</a>
+                <a href="https://github.com/iammunisai/sample-resume/issues/new?title=Contact%20Request&body=Hi%20Muni%20Sai%2C%0A%0AI%20would%20like%20to%20connect%20with%20you%20regarding%3A%0A%0A" target="_blank" style="display: flex; align-items: center; gap: 8px; background: #e94560; color: #fff; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-size: 0.95em; transition: opacity 0.3s;">✉️ Send a Message</a>
+            </div>
+        </section>
+
+        <footer>
+            <p style="font-size: 0.85em; color: #e94560; margin-bottom: 12px; font-style: italic;">⚠️ Personal information and company names have been masked for privacy. Full details available on request.</p>
+            <button class="download-btn" onclick="window.print()">📄 Download as PDF</button>
+            <p style="margin-top: 12px;">Built with ❤️ | Muni Sai Gampala</p>
+        </footer>
+    </div>
+</body>
+</html>
